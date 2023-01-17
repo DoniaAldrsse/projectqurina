@@ -1,0 +1,156 @@
+
+   [
+    {
+      "id": "a1",
+      "title": "اليانبيع",
+      "imageurl":
+          "http://farm4.static.flickr.com/3061/2763206770_8ffb595b53.jpg",
+      "price": "400",
+      "description":
+          "يقع منتجع الينابيع في المنطقة الشرقية لليبيا وبالتحديد في منطقة رأس الهلال والتي تتميز بطبيعتها الخلابه لانها تجمع ما بين الجبل والبحر",
+      "phone": "0921345794",
+      "ratting":0.0,
+      "Lat": 32.882378519664954,
+      "Lng": 22.190156372231026
+      },
+      {
+      "id": "a2",
+      "title": "ايميليا",
+      "imageurl":
+         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrpgV-hF7yntBVJ4Ru89hizNOPmJKqzEyXQ&usqp=CAU",
+      "price": "350 ",
+      "description":
+          " منتجع إيميليا السياحى المزود بالألعاب المائية ومقاهي ومطاعم ومنتزه للعائلات وشواطيء ذات خدمات خاصة",
+      "phone": "0921345794",
+      "ratting": 0.0,   
+      "Lat": 32.79846642098528,
+      "Lng": 22.562230745245657
+      },
+   {
+      "id": "a3",
+      "title": " ايه الجبل",
+      "imageurl":
+         "https://media-cdn.tripadvisor.com/media/photo-s/17/93/27/bf/caption.jpg",
+      "price":"10000",
+      "description": "بجوار مسجد بن رباح وخلف مصرف الجمهوريه, Al Bayda', Libya",
+      "phone": "092-5770664",
+      "ratting": 0.0,
+      "Lat": 32.76377761936504,
+      "Lng": 21.754970605545715
+     
+       },
+   {
+      "id": "a4",
+      "title":" مرحبا",
+      "imageurl":
+          "https://lh5.googleusercontent.com/p/AF1QipPaS8QGQ5UKOXC-fmkQbkWz81qlgQjF_oCRwJ4H=w408-h306-k-no",
+      "price":"500",
+      "description":  " تشمل كل الغرف وجبات افطار مجاني يوفر فندق مرحبا خدمات المقهى وخدمات مطعم وخدمات مغسلة وخدمات غرف  وشمسه معتدلة في العلو والهبوط وقمره معتدل في أول درجة من الليالي فندق مرحبا البيضاء تطل علينا بدايات فصل الربيع أحد أجمل فصول السنة، فهو ذو مناخ معتدل، ويمثل المرحلة الانتقالية من موسم الشتاء إلى موسم الصيف فهو يمتاز بليله ونهاره المعتدل بين الحر والبرد،",
+      "phone": ": 091-3563501",
+      "ratting": 0.0,
+      "Lat":32.7682231393231,
+      "Lng": 21.78845284709538
+    
+      },
+      {
+      "id": "a5",
+      "title": " بنتابوليس",
+      "imageurl":
+          "https://lh3.googleusercontent.com/p/AF1QipMLP6wWPhG38Dy5fF_JToACch8nH_Jf4yN_y9EL=s680-w680-h510",
+      "price": "10000",
+      "description":" بنتابوليس يقع في مدينة البيضاء، يتميز الفندق بإطلالة جميلة على شارع العروبة، بخلاف ديكوراته الراقي.",
+      "phone":"0921345794",
+      "ratting": 0.0,
+      "Lat":32.765027486927984,
+      "Lng": 21.760319872233236
+
+         },
+  {
+      "id": "a6",
+      "title": "Al-Wahat",
+      "imageurl": "https://lh5.googleusercontent.com/p/AF1QipOBh1bG4DP8GR81R0sMZZ9O2mu030-Uy_W2vgwT=w408-h544-k-no",
+      "price": "10000",
+      "description":" أحد فنادق التابعه لشركه ..A .W. S -group ..للحجز والاستفسار لاتصال بل ارقام",
+      "phone": "091-0568000",
+      "ratting": 0.0,
+      "Lat": 32.129896037181865,
+      "Lng":20.076397545263823
+   
+  },
+  {
+    "id": "a7",
+    "title": "THEPALACE",
+    "imageurl": "https://lh3.googleusercontent.com/p/AF1QipNiJaevXk33vx8eLyqAWC-q6Ka-TpnlEIEZ5BOl=w296-h202-n-k-rw-no-v1",
+    "price": "450",
+    "description":" فندق THEPALACE, شارع العالمين (شارع الجود) - الفويهات، بنغازي",
+    "phone": "061-4803033",
+    "ratting": 0.0,
+    "Lat":32.07605597618792, 
+    "Lng":20.078988185745242
+
+},
+{
+    "id": "a8",
+    "title": "فندق دار السلام ",
+    "imageurl": "https://scontent.fben2-1.fna.fbcdn.net/v/t39.30808-6/307036343_599679685197313_8802984880972447929_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EnWPrYwugVcAX9gytbt&_nc_ht=scontent.fben2-1.fna&oh=00_AfDXAVb315hKelDeHbpstTAiu65uF5OlmKojsNtlly3Y1w&oe=63C79577",
+    "price": "140",
+    "description":"ونحن علي اتم استعداد تام في ترحيب زبائننا الكرام ونتمني ان نكون عند حسن ظن الجميع: يبدا الاسعار الفردية علي 140 والزوجية علي 175 الي 1000 طبعا شاملة الافطار الصباحي فقط",
+
+    "phone": "062-7625761",
+    "ratting": 0.0,
+    "Lat":32.07323730725898, 
+    "Lng":23.967820639718607
+
+},
+{
+    "id": "a9",
+    "title": "فندق باب طبرق ",
+    "imageurl": "https://scontent.fben2-1.fna.fbcdn.net/v/t31.18172-8/13340334_1364838603529879_8026187880163515686_o.jpg?stp=c0.25.526.526a_dst-jpg_p526x296&_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=LCIKbKrfkiYAX8eqWG2&_nc_ht=scontent.fben2-1.fna&oh=00_AfA6vGB9YVcJZvlcHvQXM6gl57bFc8rVPATKTQsib_Xf0w&oe=63EA9332",
+    "price": "140",
+    "description":"عروض فنادق ، حجوزات فنادق ، دليل فنادق ، شقق فندقيه ، بنسيون ، فندق ",
+
+    "phone": "092-8514000",
+    "ratting": 0.0,
+    "Lat":32.08592114117039,
+    "Lng": 23.96108204887321
+ 
+},
+{
+    "id": "a10",
+    "title": "فندق سان جورج ",
+    "imageurl": "https://scontent.fben2-1.fna.fbcdn.net/v/t1.6435-9/51168147_2278435922403995_1133957231130181632_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=QoxfDmxJKZoAX9Y23_p&_nc_ht=scontent.fben2-1.fna&oh=00_AfAwtOrqXYtl_qtdmLkQImDZc7hdg6EoWymK6jwP3maLPA&oe=63EA8D6F",
+    "price": "200",
+    "description":"فندق سان جورج طبرق, Tobruk, Libya. 5504 likes · 6 talking about this · 5718 were here. Hotel resort",
+    "phone": "092-8552020",
+    "ratting": 0.0,
+    "Lat":32.0809229314161,
+    "Lng":23.97302987225175
+  
+},
+{
+    "id": "a11",
+    "title": "فندق زهرة البطنان - طبرق ",
+    "imageurl": "https://scontent.fben2-1.fna.fbcdn.net/v/t39.30808-6/301700058_376665071305701_2980156158582953270_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=P3qTlaMKw5EAX8UMDi4&_nc_ht=scontent.fben2-1.fna&oh=00_AfAvr3O3Jk_UmUOliYUkuy2cXlwxogGXl-mk13YRgQQjug&oe=63C8FD36",
+    "price": "750",
+    "description":"فندق زهرة البطنان فرع , Tobruk, Libya. 578 likes · 5 talking about this · 44 were here. ",
+
+    "phone": "062-7629217",
+    "ratting": 0.0,
+    "Lat":32.08376715447942, 
+    "Lng":23.976183116429517
+
+},
+{
+    "id": "a12",
+    "title": "قصر الضيافة ",
+    "imageurl": "https://lh5.googleusercontent.com/p/AF1QipNsW86I_MQg7PI3qhD5aY5e9h9lVJVu__uYRmk_=w408-h306-k-no",
+    "price": "750",
+    "description":"يحتوي الفندق علي شقق واجنحة فندقية مختلفة الاحجام، فسيحه ومريحه ومؤثثة علي احدث وارقي الأثاث الفندقي بأسعار مناسبه  ",
+    "phone": ": 092-5802526",
+    "ratting": 0.0,
+    "Lat":32.76263112296042, 
+    "Lng": 21.7294515164111
+
+}
+ 
+    ]
